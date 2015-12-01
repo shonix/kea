@@ -1,0 +1,1 @@
+Først, så længe queuen q ikke er empty, pusher den alle elementer heri til stacken s, og dequeuer dem fra queuen. Herefter, så længe stacken ss ikke er tom, enquer denne alle elementer til queuen q, imens den popper disse elementer af stacken s, igen.
